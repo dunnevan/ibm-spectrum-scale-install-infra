@@ -1,5 +1,5 @@
-namespace: ibm-spectrum-scale
-name: install-infra
+namespace: ibm_spectrum_scale
+name: install_infra
 version: v0.0.0
 readme: README.md
 license_file: LICENSE
